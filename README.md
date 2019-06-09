@@ -1,10 +1,10 @@
 # Free WebVR For Quest
 _Submit your WebVR link for Quest here. And let's user know that your game exist._
 
-As Oculus Team is strict about game on the Store developers try to find solutions.
-Some of them are starting to make WebVR games to counter this situaton.
+As Oculus Team is strict about game on the Store developers try to find solutions.   
+Some of them are starting to make WebVR games to counter this situaton.   
 
-As a respond to this, I propose to build a free WebVR catalogue on the Quest.
+As a respond to this, I propose to build a free WebVR catalogue on the Quest.   
 
 
 ## You are a Quest User
@@ -13,11 +13,11 @@ As a respond to this, I propose to build a free WebVR catalogue on the Quest.
 2. Sideload the [WebVR Quest Book](#) on the Quest (See how to [here](https://github.com/EloiStree/CodeAndQuestsEveryday/issues/10))
 3. Launch the application on the Quest and select the game you want to play.
 ### You are a user and you find a web vr game ?
-If you know how to fork.
-Feel free to add the game and Pull the modification.
+If you know how to fork.   
+Feel free to add the game and Pull the modification.   
 
-Else, you can add it to the [Issue](https://github.com/EloiStree/FreeWebVRForQuest/issues) of this project.
-Administrators will add it as soon as they are availaible.
+Else, you can add it to the [Issue](https://github.com/EloiStree/FreeWebVRForQuest/issues) of this project.   
+Administrators will add it as soon as they are availaible.    
 
 
 ## You are a game creator
@@ -27,11 +27,6 @@ Administrators will add it as soon as they are availaible.
 3. Make a Pull Request.https://github.com/EloiStree/FreeWebVRForQuest
 4. Wait that an administrator of this group accept the Pull. 
 5. There is almost no filter here, just the time to check that your json modification is valide
-
-PS: Later some filter tags for:
-- Kid, Porn, Danger... will be add.
-
-
 
 ## You want to be administrator of the Catalog
 
