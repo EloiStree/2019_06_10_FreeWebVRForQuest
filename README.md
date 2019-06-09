@@ -44,7 +44,7 @@ I will add you to the open/private project to fork.
 https://github.com/EloiStree/FreeWebVRForQuestProject
 
 It is an open project.
-But as I am using "Bought asset from the store",
+But as I am using bought asset from the store,
 I can let's the project public.
 
 Fork the project, when I added you, and do a better version.
