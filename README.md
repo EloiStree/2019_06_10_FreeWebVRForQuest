@@ -41,6 +41,7 @@ Feel free to contact us (me for the  moment).
 
 Send me your mail address. 
 I will add you to the open/private project to fork.
+https://github.com/EloiStree/FreeWebVRForQuestProject
 
 It is an open project.
 But as I am using "Bought asset from the store",
