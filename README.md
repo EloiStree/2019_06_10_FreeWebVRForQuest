@@ -39,8 +39,14 @@ Feel free to contact us (me for the  moment).
 
 ## You want to make a better application
 
-Fork the project and do a better version.
-Or feel free to contact us (me for the  moment).
+Send me your mail address. 
+I will add you to the open/private project to fork.
+
+It is an open project.
+But as I am using "Bought asset from the store",
+I can let's the project public.
+
+Fork the project, when I added you, and do a better version.
 
 
 # Why I am doing that ?
