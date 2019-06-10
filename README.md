@@ -49,8 +49,8 @@ Fork the project, when I added you, and do a better version.
 I am not doing that for money.   
 I just want to help people to enjoy the Quest.   
 
-But if you want to access my other tool.   
-Or if you want to offer me a beer.   
+But if you want to access my other tools.   
+Or if you want to suport my work.
 
-Feel free to to it here:   
+Feel free to do it here:   
 http://eloistree.com/  
