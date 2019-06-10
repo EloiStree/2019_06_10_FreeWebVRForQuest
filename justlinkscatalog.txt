@@ -13,4 +13,3 @@ Pano VR || https://ggnome.com/pano2vr/examples
 Barista Express || https://constructarca.de/game/barista-express/
 Super Says || https://supermedium.github.io/supersays/src/
 Sound Boxing || http://webvr.soundboxing.co
-Cow box || https://patreon.com/eloistree
