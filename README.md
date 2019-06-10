@@ -10,7 +10,7 @@ As a respond to this, I propose to build a free WebVR catalogue on the Quest.
 ## You are a Quest User
 
 1. Unlock developer mode on your phone (See how to [here](https://github.com/EloiStree/CodeAndQuestsEveryday/issues/28))
-2. Sideload the [WebVR Quest Book](#) on the Quest (See how to [here](https://github.com/EloiStree/CodeAndQuestsEveryday/issues/10))
+2. Sideload the [WebVR Quest Book](https://github.com/EloiStree/FreeWebVRForQuest/releases) on the Quest (See how to [here](https://github.com/EloiStree/CodeAndQuestsEveryday/issues/10))
 3. Launch the application on the Quest and select the game you want to play.
 ### You are a user and you find a web vr game ?
 If you know how to fork.   
