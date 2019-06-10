@@ -9,8 +9,7 @@ Konter Ball || https://konterball.com/
 Sponza VR|| http://david.blob.core.windows.net/babylonjs/SponzaVR/index.html
 Tonite Dance || https://tonite.dance/
 Sketch Fab: Star wars || https://sketchfab.com/3d-models/star-wars-podracer-fe6c365dc34e40e4aca1f6c3c515b164
-A-Blast || https://aframe.io/examples/showcase/a-blast/
 Pano VR || https://ggnome.com/pano2vr/examples
 Barista Express || https://constructarca.de/game/barista-express/
-Super Says || https://aframe.io/examples/showcase/super-says/
+Super Says || https://supermedium.github.io/supersays/src/
 Sound Boxing || http://webvr.soundboxing.co
