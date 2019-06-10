@@ -23,7 +23,7 @@ Administrators will add it as soon as they are availaible.
 ## You are a game creator
 
 1. Fork the project
-2. Modify the [catalog file] with your game info
+2. Modify the [catalog file](https://github.com/EloiStree/FreeWebVRForQuest/blob/master/detailedcatalog.json) with your game info
 3. Make a Pull Request.https://github.com/EloiStree/FreeWebVRForQuest
 4. Wait that an administrator of this group accept the Pull. 
 5. There is almost no filter here, just the time to check that your json modification is valide
