@@ -1,0 +1,2 @@
+Basically I will implement a count of the like an dislike on the GitHub Issue tracker.
+And will use a tag in the comment on it to give user the possibility to make review of the game.
